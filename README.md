@@ -1,4 +1,4 @@
-### This branch is developed on PyTorch by me.
+### This branch is developed on PyTorch by me on Multi Person Pose estimation.
 
 ## AlphaPose
 [Alpha Pose](http://www.mvig.org/research/alphapose.html) is an accurate multi-person pose estimator, which is the **first open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** 
