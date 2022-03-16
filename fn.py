@@ -150,7 +150,7 @@ def vis_frame(frame, im_res, format='coco'):
 
     return rendered image
     '''
-    if format == 'mpii':
+    if format == 'coco':
         l_pair = [
             (0, 1), (0, 2), (1, 3), (2, 4),  # Head
             (5, 6), (5, 7), (7, 9), (6, 8), (8, 10),
